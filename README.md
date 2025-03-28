@@ -17,7 +17,7 @@ Este projeto consiste em um retificador de onda completa, desenvolvido utilizand
 ### Traseira  
 ![Modelo 3D - Trás](3Datras.png)
 
-## 📷 Fotos do Protótipo  
+## 📷 Fotos Da implementação
 ![Foto 1](retificador1.jpeg)  
 ![Foto 2](retificador2.jpeg)  
 ![Foto 3](retificador3.jpeg)
